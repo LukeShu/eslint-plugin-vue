@@ -44,7 +44,7 @@
     "eslint": "^3.18.0 || ^4.0.0"
   },
   "dependencies": {
-    "vue-eslint-parser": "^2.0.3"
+    "vue-eslint-parser": "git://github.com/LukeShu/vue-eslint-parser#4a8b94357bab2d675e321a843b412aa620be8bb8"
   },
   "devDependencies": {
     "@types/node": "^4.2.16",
